@@ -4,22 +4,12 @@ title: "Min fina titel"
 Min me-sida i kursen oophp
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/jag.jpg?w=500" caption="Bild på mig"]
 
-[FIGURE src="image/me.jpg?w=500" caption="Bild på mig"]
+Hej,
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Mitt namn är Jonathan Hellberg. Jag kommer ifrån södra ryd som ligger i staden Skövde som ligger högt upp i västragötaland. Jag har bot i skövde de senaste 19 åren men flyttade just utifrån skövde och bor för tillfälligt i karlskrona på båten Hansa.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Programmering har varit ett intresse sedan jag var 14 år gammal men då jag började programmera i språket java. Men eftersom att min engelska inte var så bra på den tiden så var de svårt för mig att kunna ta in kunskapen som delades ut på olika hemsidor. För 2 år sen så började jag komma allt mer in i programmeringsvärden då jag fick lära mig att programmera i php, java och javascript. Men också fick hag lärdom av språken css, html, mysql, json, C++, C# och python.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Andra intressen är dator-spel. Jag har spelat för skoj skull men även har jag spelat proffentionel nivå i spelet Counter-Strike Global Offensive. Där jag har mött top 10 lagen men jag hade lång väg innan jag kunde fortsätta med att spela på den nivån.
